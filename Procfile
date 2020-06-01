@@ -1,1 +1,1 @@
-web: note ./bin/www
+web: node ./bin/www
